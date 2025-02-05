@@ -32,17 +32,3 @@
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nayush29&theme=radical&margin-w=10)
-
----
-
-## 🐍 Contribution Snake:
-
-### Light Theme:
-![GitHub Snake](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/github-snake.svg)
-
-### Dark Theme:
-![GitHub Snake Dark](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/github-snake-dark.svg)
-
-### Ocean Animation:
-![Ocean Gif](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/ocean.gif)
-
