@@ -36,4 +36,13 @@
 ---
 
 ## 🐍 Contribution Snake:
-![snake animation](https://raw.githubusercontent.com/Nayush29/Nayush29/output/github-contribution-grid-snake2.svg)
+
+### Light Theme:
+![GitHub Snake](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/github-snake.svg)
+
+### Dark Theme:
+![GitHub Snake Dark](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/github-snake-dark.svg)
+
+### Ocean Animation:
+![Ocean Gif](https://raw.githubusercontent.com/Nayush29/Nayush29/main/dist/ocean.gif)
+
