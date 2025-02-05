@@ -36,4 +36,4 @@
 ---
 
 ## 🐍 Contribution Snake:
-![GitHub Snake](https://github.com/Nayush29/Nayush29/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Nayush29/Nayush29/output/github-contribution-grid-snake2.svg)
