@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush Negi! 👋
+### Hi there, I'm Ayush Negi! 👋  
 🚀 IT Security | System Administration | Web Development  
 💡 Passionate about technology, problem-solving, and continuous learning.
 
@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-negi-a2003n29)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ayush-negi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Nayush29)
 
 ---
 
@@ -20,20 +20,20 @@
 ---
 
 ## 📈 GitHub Stats:
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-negi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-negi&layout=compact&theme=radical)  
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayush29&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayush29&layout=compact&theme=radical)  
 
 ---
 
 ## 🔥 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-negi&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayush29&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush-negi&theme=radical&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nayush29&theme=radical&margin-w=10)
 
 ---
 
 ## 🐍 Contribution Snake:
-![GitHub Snake](https://github.com/ayush-negi/ayush-negi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Nayush29/Nayush29/blob/output/github-contribution-grid-snake.svg)
